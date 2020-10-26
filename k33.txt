@@ -1,0 +1,4 @@
+c
+c input file for K_{3,3}
+c
+p edge 1 0
